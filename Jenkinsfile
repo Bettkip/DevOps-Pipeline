@@ -7,7 +7,7 @@ pipeline{
         maven 'Maven3'
     }
     environment {
-        APP_NAME = "DevOps-Pipeline"
+        APP_NAME = "devops-pipeline"
         RELEASE = "1.0.0"
         DOCKER_USER = "frankbett"
         DOCKER_PASS = 'Miami'
